@@ -1,0 +1,14 @@
+.welcome {
+ border:2px solid black; 
+ margin-top: 4%;
+ height: 45%;
+}
+.intro{
+  
+}
+.image-area{
+ border:1px solid black;
+}
+.profile-pic{
+  height:5rem;
+}
